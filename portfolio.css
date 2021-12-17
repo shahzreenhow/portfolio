@@ -370,6 +370,7 @@ header {
     height: 50px;
     font-size: 15px;
     border-radius: 10px;
+    color: black;
     background-color: #5584AC;
     padding-left: 10px;
 }
